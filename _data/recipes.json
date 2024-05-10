@@ -1,0 +1,68 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Vegan Pasta Primavera",
+      "time_to_cook": "30 minutes",
+      "description": "A delightful vegan pasta dish loaded with fresh vegetables and tossed in a creamy sauce.",
+      "imageUrl": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cmVjaXBlfGVufDB8fDB8fHww",
+      "isVegan": true
+    },
+    {
+      "id": 2,
+      "title": "Spicy Black Bean Tacos",
+      "time_to_cook": "25 minutes",
+      "description": "These spicy black bean tacos are bursting with flavor and perfect for a quick weeknight meal.",
+      "imageUrl": "https://images.unsplash.com/photo-1540660290370-8aa90e451e8a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHJlY2lwZXxlbnwwfHwwfHx8MA%3D%3D",
+      "isVegan": true
+    },
+    {
+      "id": 3,
+      "title": "Lemon Herb Roasted Cauliflower",
+      "time_to_cook": "40 minutes",
+      "description": "A delicious vegan dish featuring roasted cauliflower seasoned with lemon and herbs.",
+      "imageUrl": "https://images.unsplash.com/photo-1525059696034-4967a8e1dca2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHJlY2lwZXxlbnwwfHwwfHx8MA%3D%3D",
+      "isVegan": true
+    },
+    {
+      "id": 4,
+      "title": "Classic Margherita Pizza",
+      "time_to_cook": "20 minutes",
+      "description": "This classic Margherita pizza features a thin crust topped with fresh tomatoes, basil, and mozzarella cheese.",
+      "imageUrl": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cmVjaXBlfGVufDB8fDB8fHww",
+      "isVegan": false
+    },
+    {
+      "id": 5,
+      "title": "Quinoa Salad with Chickpeas and Avocado",
+      "time_to_cook": "20 minutes",
+      "description": "A refreshing quinoa salad packed with protein-rich chickpeas and creamy avocado slices.",
+      "imageUr": "https://images.unsplash.com/photo-1485921325833-c519f76c4927?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fHJlY2lwZXxlbnwwfHwwfHx8MA%3D%3D",
+      "isVegan": true
+    },
+    {
+      "id": 6,
+      "title": "Vegetable Stir-Fry with Tofu",
+      "time_to_cook": "35 minutes",
+      "description": "This vegetable stir-fry is a colorful medley of crisp veggies and savory tofu, perfect for a quick and healthy dinner.",
+      "imageUrl": "https://images.unsplash.com/photo-1624462966581-bc6d768cbce5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fHJlY2lwZXxlbnwwfHwwfHx8MA%3D%3D",
+      "isVegan": true
+    },
+    {
+      "id": 7,
+      "title": "Vegan Lentil Soup",
+      "time_to_cook": "45 minutes",
+      "description": "A hearty and satisfying vegan lentil soup, loaded with vegetables and flavored with aromatic spices.",
+      "imageUrl": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cmVjaXBlfGVufDB8fDB8fHww",
+      "isVegan": true
+    },
+    {
+      "id": 8,
+      "title": "Mushroom Risotto",
+      "time_to_cook": "40 minutes",
+      "description": "Creamy and comforting mushroom risotto, infused with the earthy flavors of fresh mushrooms and savory broth.",
+      "imageUrl": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cmVjaXBlfGVufDB8fDB8fHww",
+      "isVegan": false
+    }
+  ]
+}
