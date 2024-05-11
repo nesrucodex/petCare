@@ -11,22 +11,28 @@ const Page = (props: Props) => {
     <main>
       <div className="-z-1 absolute inset-0 h-screen bg-gradient-to-br from-slate-600 to-orange-600">
         <Image
-          src="/images/img_02.jpg"
-          className="object-cover"
+          src="/images/img_04.webp"
+          className="object-left "
           fill
           alt="Background"
+      
         />
         <div className="absolute inset-0 h-full bg-black/30" />
-       
       </div>
       <section className="relative z-10 flex h-screen flex-col items-center justify-center">
-        <H1 className="text-[3rem] md:text-[5rem]  lg:text-[7rem] text-white">PetCare</H1>
-        <H3 className="text-center opacity-70 text-white max-w-lg">
+        <H1 className="text-[3rem] text-zinc-800  md:text-[5rem] lg:text-[7rem]">
+          PetCare
+        </H1>
+        <H3 className="max-w-lg text-center text-zinc-800 opacity-70">
           Welcome to PetCare! At PetCare, we understand that your pets are more
           than just animals.
         </H3>
-        <div className="flex items-center gap-x-5 mt-7">
-          <Button size={"lg"} className="rounded-md uppercase shadow" variant={"secondary"}>
+        <div className="mt-7 flex items-center gap-x-5">
+          <Button
+            size={"lg"}
+            className="rounded-md uppercase shadow"
+            variant={"secondary"}
+          >
             <Link href="#">Register</Link>
           </Button>
           <Button size={"lg"} className="rounded-md uppercase shadow">
